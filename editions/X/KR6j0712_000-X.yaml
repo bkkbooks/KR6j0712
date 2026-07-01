@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0712/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 楞嚴經觀心定解科
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X15/X15n0304.xml
+    old_id: X15n0304
+hash: sha256:693e2a09cc200010fa60af1d2609d43655f6f3c9ee39ab98dbb4977b3884686f
