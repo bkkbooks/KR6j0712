@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0712/v1
 canonical_location: https://kanripo.org/bkk/KR6j0712/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 楞嚴經觀心定解科
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0712_000.yaml, hash: 'sha256:693e2a09cc200010fa60af1d2609d43655f6f3c9ee39ab98dbb4977b3884686f'}
-  - {seq: 1, filename: KR6j0712_001.yaml, hash: 'sha256:fa9aeb4589a810e9726ead727a3eed7000928e7fd106f48376194c48d739d49c'}
+  - {seq: 1, filename: KR6j0712_001.yaml, hash: 'sha256:04e2fc30903c5a8bdf0f296c369e8a706de37c11ccf9ea583e90e7001b9f1fa1'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0712_000.markers.yaml, hash: 'sha256:f103a17038b84a2d16a138822398b325a6e0a629244d1b5c2ab533bebc3e6ab7'}
-  - {seq: 1, role: markers, filename: assets/KR6j0712_001.markers.yaml, hash: 'sha256:c1273bfbaaa1a3224ac68502abb105391e1fff33cd2e92eccccd2b38c150a80c'}
+  - {seq: 1, role: markers, filename: assets/KR6j0712_001.markers.yaml, hash: 'sha256:10a106cbcecc1406af7283983dd5b6bee458828fb45cf201cc28fe8843342adb'}
 table_of_contents:
 - ref:
     seq: 1
@@ -67,4 +67,7 @@ table_of_contents:
   label: 三流通分
   type: mulu
   level: 1
-hash: sha256:d7b4c4e21daf14fd2f0da64ae6d991521a80888c964c63491d7fcab791398722
+hash: sha256:3064f104edec20dc31626c1e0762c5f32d6d6ba70dc18feb08a8544519c2f59f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
